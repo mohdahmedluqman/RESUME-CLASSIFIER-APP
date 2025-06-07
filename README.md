@@ -1,8 +1,7 @@
-# RESUME-CLASSIFIER-APP
-A AI project that classifies resumes into job categories like Data Science, Web Development, HR, etc., using NLP and Machine Learning.<br>  Built with 💻 Python, 🧪 Scikit-learn, 🧠 TF-IDF, and 📄 Streamlit interface for resume (PDF) upload and prediction.
+---
 # 🧠 AI Resume Classifier
-
-This is a beginner-friendly AI project that classifies resumes into different job categories such as **Data Science**, **Web Development**, **HR**, etc., using Natural Language Processing (NLP) and Machine Learning.
+---
+This is a AI project that classifies resumes into different job categories such as **Data Science**, **Web Development**, **HR**, etc., using Natural Language Processing (NLP) and Machine Learning.
 
 > Built with Python, Scikit-learn, TF-IDF, and Streamlit. Works with PDF resume uploads.
 
