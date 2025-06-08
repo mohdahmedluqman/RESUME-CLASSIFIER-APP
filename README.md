@@ -36,18 +36,16 @@ This project uses the **UpdatedResumeDataSet.csv** available from Kaggle:
 ---
 
 ### 🚀 How to Run the Project
-Clone the Repository
+- Clone the Repository
 
-git clone https://github.com/mohdahmedluqman/RESUME-CLASSIFIER-APP
-cd RESUME-CLASSIFIER-APP
-Install Requirements
+- git clone https://github.com/mohdahmedluqman/RESUME-CLASSIFIER-APP
+- cd RESUME-CLASSIFIER-APP
 
+- Install Requirements
+- pip install -r requirement.txt
 
-pip install -r requirements.txt
-Run the Streamlit App
-
-
-streamlit run app.py
+- Run the Streamlit App
+- streamlit run app.py
 ---
 
 ## 🔮 Future Scope
