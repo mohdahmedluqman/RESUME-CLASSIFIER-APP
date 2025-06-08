@@ -35,20 +35,19 @@ This project uses the **UpdatedResumeDataSet.csv** available from Kaggle:
 
 ---
 
-### 🌐 Streamlit Web App
+### 🚀 How to Run the Project
+Clone the Repository
 
-1. Install Streamlit:
-  
-    pip install streamlit
-    
+git clone https://github.com/mohdahmedluqman/RESUME-CLASSIFIER-APP
+cd RESUME-CLASSIFIER-APP
+Install Requirements
 
-2. Save the UI script as `app.py` and run:
-    
-    streamlit run app.py
-    
 
-3. Upload your PDF resume and view the predicted job category.
+pip install -r requirements.txt
+Run the Streamlit App
 
+
+streamlit run app.py
 ---
 
 ## 🔮 Future Scope
