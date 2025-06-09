@@ -12,7 +12,7 @@ This is a AI project that classifies resumes into different job categories such 
 - 🔍 Classifies resumes based on content
 - 🧼 Automatically cleans and preprocesses resume text
 - 🧠 Uses Logistic Regression + TF-IDF for classification
-- 📤 Allows uploading resume in PDF format
+- 📤 Allows uploading resume in TXT format
 - 🌐 Web-based interface using Streamlit
 
 ---
